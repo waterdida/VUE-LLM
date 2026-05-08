@@ -1,0 +1,7 @@
+node_modules/
+dist/
+coverage/
+*.log
+
+# Local API key config
+src/config/deepseekKey.js
